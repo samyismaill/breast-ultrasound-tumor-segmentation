@@ -1,4 +1,13 @@
-# Breast Ultrasound Tumor Segmentation using ResNet & U-Net
+ Breast Ultrasound Tumor Segmentation
+
+ Deep Learning project using ResNet50 + U-Net to segment breast tumors from ultrasound images.
+
+ Goal: Detect and segment tumor regions to assist early breast cancer diagnosis.
+
+ Best Results:
+- Training Accuracy: ~97%
+- Validation Accuracy: ~75%
+- Test Accuracy: ~69%# Breast Ultrasound Tumor Segmentation using ResNet & U-Net
 
 ## Overview
 This project focuses on breast tumor segmentation and classification using deep learning techniques on ultrasound medical images.
